@@ -1,5 +1,9 @@
 # EX-H410M-V3 + Intel i5 10400 (iGPU) OpenCore Configuration
 
+> [!WARNING]  
+> This repository will no longer be updated for newer macOS versions. You may need to manually
+> update the drivers and configuration for newer versions of macOS yourself.
+
 Baseline config for EX-H410M-V3 and Intel i5 10400 Hackintosh
 
 ![Epic Flex](docs/epic-flex.png)
